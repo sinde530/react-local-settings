@@ -4,6 +4,11 @@
 yarn add webpack webpack-cli webpack-dev-server
 ```
 
+# babel install
+```javascript
+yarn add babel-loader @babel/core @babel/preset-env @babel/preset-react
+```
+
 # eslint install
 
 ```javascript
