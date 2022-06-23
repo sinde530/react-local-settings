@@ -24,3 +24,6 @@ yarn eslint --init
 ✔ Which style guide do you want to follow? · airbnb
 ✔ What format do you want your config file to be in? · JavaScript
 ```
+
+```toc
+```
